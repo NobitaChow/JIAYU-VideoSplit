@@ -29,7 +29,7 @@
 ./package.sh
 ```
 
-脚本复制本机 Homebrew FFmpeg 及递归依赖到应用，修正动态库路径并临时签名。依赖版本取决于本机构建环境；本次发行的精确配方和对应源码随 Release 提供。
+脚本复制本机 Homebrew FFmpeg 及递归依赖到应用，修正动态库路径并临时签名。依赖版本取决于本机构建环境；本次发行的精确配方位于 ThirdParty/Formulas，对应源码下载见 [SOURCE_DOWNLOADS.md](SOURCE_DOWNLOADS.md)。
 
 ## 开源来源与许可
 

@@ -6,7 +6,7 @@
 
 ## 对应源码
 
-本次 Release 的 `JIAYU-VideoSplit-1.0.1-ThirdPartySource.tar.gz` 包含对应源代码归档、逐项 URL/SHA-256 清单和安装版本的 Homebrew 配方。x264 按配方指定的 Git commit 归档。每个源码包自带完整版权声明。配方描述编译选项；`scripts/bundle_engine.py` 是本项目执行的复制、动态库路径重定位和临时签名步骤，没有修改 FFmpeg 功能代码。
+[SOURCE_DOWNLOADS.md](SOURCE_DOWNLOADS.md) 列出官方服务器上的精确对应源代码、逐项 URL/SHA-256 清单；安装版本的 Homebrew 配方保留于本仓库。x264 按配方指定的 Git commit 归档。每个源码包自带完整版权声明。配方描述编译选项；`scripts/bundle_engine.py` 是本项目执行的复制、动态库路径重定位和临时签名步骤，没有修改 FFmpeg 功能代码。
 
 本机链接的 Apple 系统框架属于系统组件，不随应用复制。品牌图标由 AI 生成，未包含字体文件。
 
